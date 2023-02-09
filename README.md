@@ -1,0 +1,1 @@
+# Ranger-Plugins---HDFS-SOLR-HIVE
